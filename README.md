@@ -11,7 +11,6 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="php" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="30" height="30"/>
