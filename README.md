@@ -1,10 +1,9 @@
 - ### Hi there 👋
 * 👂 My name is @Sanchay
 * 👩 Pronouns: HE / HIM
-* 🔭 I’m currently working on React
-* 🌱 I’m currently learning React
-* 🤝 I’m looking to collaborate on React
-* 🤔 I’m looking for help with React
+* 🔭 I’m currently working on Cyber Security
+* 🤝 I’m looking to collaborate on Cyber Security projects
+
 
 * <p>
   <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
